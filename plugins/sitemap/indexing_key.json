@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "turn-of-speed",
+  "private_key_id": "7b3ce8134fc27862e8b2de157a90afb548a95ecf",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDI4T9WnlXblGd4\nqXAIT2yjJXwSCohSn0fMNL7JlmZzHVsBmWTpXqMZLGTxfzwzvonw0G7FefJTZ3ir\njDN3/q2CMTipZo+fobrTjqH4zlloTW1C/GMnHvDurlXH93n7mk3D8EBG/Au4C0xK\n9Sgcda7oLlgm4719c7YFI2fKImaFMOwIr3MLwHypEugNCarGoL29ZBKdaMf7P+Rr\n9hI+F0j4k6+hv7giEkGWdQ5K7EnY+7u8z6G4mlOfVnsxc2vgVYDwcdWBwKu9PEhV\nb0u9rOMpn6e4XMP5yvoNMQ70Or+xr3sM4B1YevmU6BJJubVMHIEj011yiLm8Llxg\n0okmscSZAgMBAAECggEAAsJOPIYy82+9vpNkL6cInNKHWleU8P6RTcGVM79aM59N\n+E8HKuni91Xr4oG+/c5yhlFUjieLP6BCkOedbtrbfvfmWXRISXbfEigJuzk5UuSK\nWULOaVOEV2DjWnpgjWc8hXILrfXpAst77iUhGof2wadeTFVxLTONRtOKScVQb2ia\n/4JowGt8HUNy+7j/I0LWPLtlg7EpvBF+Ss9bodYVEBCytpWequatMlFoa9KsjtvY\nr3n5Q+U1AB6+A2o7Js38Z9fqCSYtsjUiGhHvw+Zzh5ca6YsaoNDTP1Kgm1kim/9a\nczZ4TFByy7SUrk/9pscq5wY6cCkY7uvGjMhI/lc3gQKBgQDrWbvShF/cqNG6umXx\nLGOLH+/KCjo/+HMq+PWBW1VhIfgF9KLtOUxQoWQwAwe7kJxAdq1i+ScyXexulwQL\n+OBle6T/EE5XW4IYN/USXJEnXQWId8gyBMGKUyIRP7D1WArqDuJh+jrACPrgUD2m\no8pqboyrRYqc+Hd7OgFHpFBmGQKBgQDagUKL2fci+E8K7psXIkxp8qGKWpsWkv/Q\nk9gE5z8297PdW4kme1JWojQH6oKBZ2+SyalN5OR1mF+GGypaGWcKXo+nZER6T6Ug\nBiUyxxzR73lzSYjTQD1bolisBFDr6GOhXLiDAr6ci/9JihdaRLAs6IDCxiJ0Nrt5\nSrMHz3cigQKBgGKiJs8hXzORJOSG/fZHTiieZ9Za1vK8YzfdQrbF2lBs9g846ZdV\n7h/Uo7Jjcrgu8O0rT5stJDo9lrr6W13RHeoqGYo0AUEnPqx7tx/M36CJoaoB2Urt\nJ1ebY6mq8bTBA0H4nvPE9R5KJSohNtVBy7EzR4z4BhGnKBviwWqO+IrxAoGBAM1A\ngrxQQUBONCG2xWTTySf0zR3jwq9P4pGRb2gbuVvvDrwukgTd7xiGQY32EiVwfnRK\njoknLBvyyDh3KC9+kTZCYXsCSvkB+8C7RRIPy9jAtTtAphCa1YhQVi8v1rvjjkMz\nj/cxCtCPCX2RBCK9RyjINru/1vmHuE9VhhseHXEBAoGAfgPdyqPjbKDvc3T4EL9T\nKwgUKyhKqEZ/rOs9iLnCblv9ql7k/9h6yR0u9Wb9zVjSSnF1o99agFwSHU6ds7/a\nX/6CDPAo+UOkhph95W4FTLjlLvqAAFQnFQu8N2em8hzScqZgZMFG5OT1pAJwiSpj\n8iyQ0sgelg0ZWXCApVxtUwo=\n-----END PRIVATE KEY-----\n",
+  "client_email": "turnofspeed-in@turn-of-speed.iam.gserviceaccount.com",
+  "client_id": "105369349997854655344",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/turnofspeed-in%40turn-of-speed.iam.gserviceaccount.com"
+}
